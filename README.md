@@ -2,3 +2,5 @@
 My first repository on GitHub ... or is it?
 
 New stuff is green
+
+And a new branch
